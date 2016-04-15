@@ -1,6 +1,9 @@
 # ToolTip-popup
 　
-THis is a jQuery Plugin for ToolTip.
+THis is a jQuery Plugin for ToolTip.　
+　
+[Imgur](http://i.imgur.com/0GxGSVA.gifv)
+　
 　
 ## Add Link
 ```html
