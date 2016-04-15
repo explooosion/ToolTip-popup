@@ -9,9 +9,8 @@ THis is a jQuery Plugin for ToolTip.
 ```
 　
 ## Create a Tag
-title = msg　
-　
-class = popup
++ title = msg　
++ class = popup
 ```html
 <a  href="#" title="你好啊旅行者~" class="popup">獵人</a>
 ```
