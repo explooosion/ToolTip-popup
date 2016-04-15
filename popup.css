@@ -1,0 +1,122 @@
+.popup {
+	text-decoration: none;
+	color: #444444;
+	position: relative;
+}
+.popup:active {
+	color: #444444;
+}
+.popup-msg {
+	display: table;
+	margin: 10px auto;
+	padding: 5px 10px;
+	z-index: 1;
+	font-family: Microsoft JhengHei;
+	font-size: 14px;
+	color: #FFFFFF;
+	background-color: #4CAF50;
+	border-radius: 10px;
+	position: absolute;
+	-webkit-animation-duration: 0.5s;  /*Chrome, Safari*/
+	-moz-animation-duration: 0.5s;  /*FireFox*/
+	animation-duration: 0.5s;  /*IE*/
+	-webkit-animation-name: popup-down;
+	-moz-animation-name: popup-down;
+	animation-name: popup-down;
+}
+@-webkit-keyframes popup-up {
+	from {
+		top: -25px;
+	}
+	to {
+		top: -50px;
+	}
+}
+@-moz-keyframes popup-up {
+	from {
+		top: -25px;
+	}
+	to {
+		top: -50px;
+	}
+}
+@keyframes popup-up {
+	from {
+		top: -25px;
+	}
+	to {
+		top: -50px;
+	}
+}
+@-webkit-keyframes popup-down {
+	from {
+		top: 0px;
+	}
+	to {
+		top: 25px;
+	}
+}
+@-moz-keyframes popup-down {
+	from {
+		top: 0px;
+	}
+	to {
+		top: 25px;
+	}
+}
+@keyframes popup-down {
+	from {
+		top: 0px;
+	}
+	to {
+		top: 25px;
+	}
+}
+@-webkit-keyframes popup-left {
+	from {
+		left: -110px;
+	}
+	to {
+		left: -135px;
+	}
+}
+@-moz-keyframes popup-left {
+	from {
+		left: -110px;
+	}
+	to {
+		left: -135px;
+	}
+}
+@keyframes popup-left {
+	from {
+		left: -110px;
+	}
+	to {
+		left: -135px;
+	}
+}
+@-webkit-keyframes popup-right {
+	from {
+		left: 25px;
+	}
+	to {
+		left: 50px;
+	}
+}
+@-moz-keyframes popup-right {
+	from {
+		left: 25px;
+	}
+	to {
+		left: 50px;
+	}
+}
+@keyframes popup-right {
+	from {
+		left: 25px;
+	}
+	to {
+		left: 50px;
+	}
+}
