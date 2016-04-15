@@ -2,7 +2,7 @@
 　
 THis is a jQuery Plugin for ToolTip.　
 　
-[Imgur](http://i.imgur.com/0GxGSVA.gifv)
+![Imgur](http://i.imgur.com/NHYPP1a.gif)
 　
 　
 ## Add Link
