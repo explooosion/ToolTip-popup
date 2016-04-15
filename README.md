@@ -6,6 +6,10 @@
 ###### [CodePen](http://codepen.io/ta7382/pen/PNRyxr)
 ![Imgur](http://i.imgur.com/NHYPP1a.gif)
 　
+## Add CDN
+```html
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+```
 　
 ## Add Link
 ```html
