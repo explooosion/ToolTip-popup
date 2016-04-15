@@ -1,9 +1,9 @@
 # ToolTip-popup
 　
-THis is a jQuery Plugin for ToolTip.　
+###THis is a jQuery Plugin for ToolTip.　
 　
 ## Demo
-[CodePen](http://codepen.io/ta7382/pen/PNRyxr)
+### [CodePen](http://codepen.io/ta7382/pen/PNRyxr)
 ![Imgur](http://i.imgur.com/NHYPP1a.gif)
 　
 　
@@ -21,7 +21,7 @@ THis is a jQuery Plugin for ToolTip.　
 ```
 　
 ## Initial
-move：up、down、left、right
+### move：up、down、left、right
 ```javascript
   $(function(){
   	$('.popup').popup({
